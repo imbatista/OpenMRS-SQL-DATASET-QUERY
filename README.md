@@ -1,4 +1,4 @@
-# OpenMRS-SQL-DATASET-QUERY
+# OpenMRS-SQL-DATASET-SCRIPTS
 These are SQL datasets created based on my experience implementing OpenMRS
 
 This Git containt the followers SQL Script:
