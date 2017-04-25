@@ -1,5 +1,5 @@
 # OpenMRS-SQL-DATASET-QUERY
-A lot of Dataset created in MYSQL for OpenMRS Reporting Module
+These are SQL datasets created based on my experience implementing OpenMRS
 
 This Git containt the followers SQL Script:
 
